@@ -1,0 +1,10 @@
+{
+    "config": {
+		"imports": {
+			"dynamic-data-mapping-form-field-type": {
+				"/": ">=4.0.25"
+			}
+		}
+	},
+	"output": "target/classes/META-INF/resources"
+}
