@@ -1,11 +1,12 @@
 {
 	"dependencies": {
+		"dynamic-data-mapping-form-field-type-c2p9-slider": "file:",
 		"liferay-npm-bundler": "^2.32.0"
 	},
 	"devDependencies": {
 		"@babel/cli": "^7.2.3",
-		"@liferay/portal-7.4": "*",
-		"@liferay/npm-bundler-preset-liferay-dev": "^4.7.0"
+		"@liferay/npm-bundler-preset-liferay-dev": "^4.7.0",
+		"@liferay/portal-7.4": "*"
 	},
 	"main": "./",
 	"name": "dynamic-data-mapping-form-field-type-c2p9-slider",
